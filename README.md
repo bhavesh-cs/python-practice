@@ -1,5 +1,5 @@
 # python-practice
-My python learning journey
+My python learning journey.
 This repository contains Python programs that i am creating while learning python
 
 
