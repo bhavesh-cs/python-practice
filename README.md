@@ -11,7 +11,7 @@ This repository contains Python programs that i am creating while learning pytho
 -Loops in python
 -Functions & Recursions
 -File Input/Output
--
+- Basic OOPS
 
 
 ##Goal
