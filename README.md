@@ -16,3 +16,18 @@ This repository contains Python programs that i am creating while learning pytho
 
 ##Goal
 To build strong python fundamentals before starting btech in computer science
+
+
+##Created a basic calculator program 
+This program taked basic arithmetic operations  such as:
+- Addition
+- Subtraction
+- Multiplication
+- Division
+
+it takes users input from the terminal section and then gives results based on the operator you have used
+
+##status
+Beginner project - more features will be added soon!!
+
+  
