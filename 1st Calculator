@@ -1,0 +1,24 @@
+def calculater(num1 , op , num2):
+    
+    if op == "+":
+        return num1 + num2
+    
+    elif op == '-':
+        return num1 - num2
+    
+    elif op == "**":
+        return num1 ** num2
+    
+    elif op == "/":
+        return num1 / num2
+    
+
+while True :
+    print("___Calculator___")
+
+    num1 = float(input("Enter your 1st number :"))
+    op = input("Enter your operator (+,-,**,/) :")
+    num2 = float(input("Enter yout 2nd number :"))
+
+    final = calculater(num1,op,num2)
+    print("Your ans is ", final)
