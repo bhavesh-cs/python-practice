@@ -1,0 +1,21 @@
+import random 
+
+no = random.randint(1,60)
+
+attempt = 0
+print("Yokoso! Welcome to the game ")
+print("Guess a number between 1 to 100")
+
+while True:
+    guess = int(input("Enter your number :"))
+    attempt += 1
+
+    if guess < no:
+      print("Low try again!!")
+
+    elif guess > no:
+      print("High try again!!")
+
+    else:
+      print("Yeah you are correct")
+      print("You took", attempt , "attempts to guess the number.")
